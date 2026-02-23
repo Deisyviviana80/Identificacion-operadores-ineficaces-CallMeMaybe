@@ -39,7 +39,7 @@ De un total de **1,093 operadores**, se clasificaron **326 como ineficaces (30%)
 | Hipótesis | Resultado |
 |-----------|-----------|
 | H1: Operadores con alta tasa de pérdida tienen mayor tiempo de espera | ✅ Confirmada — diferencia estadísticamente significativa |
-| H2: Operadores ineficaces realizan un número diferente de llamadas salientes | ⬜ No confirmada — p = 0.197, sin diferencia significativa |
+| H2: Operadores ineficaces realizan **menos** llamadas salientes que los operadores eficaces | ⬜ No confirmada — p = 0.197, sin diferencia significativa |
 
 ### Conclusiones Clave
 - La ineficiencia está principalmente asociada a la **gestión de llamadas entrantes**: alta tasa de pérdida y tiempos de espera elevados van de la mano.
@@ -102,3 +102,4 @@ deisyviviana80@gmail.com
 ---
 
 *Este repositorio forma parte de mi portafolio de proyectos de análisis de datos.*
+

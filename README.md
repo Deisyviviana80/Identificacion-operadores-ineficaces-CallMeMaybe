@@ -1,4 +1,4 @@
-# 📞 Identificación de Operadores Ineficaces — CallMeMaybe
+# 📞 Identificación de Operadores Ineficaces - CallMeMaybe
 
 ## Descripción del Proyecto
 
